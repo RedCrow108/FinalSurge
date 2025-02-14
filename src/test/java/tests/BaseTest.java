@@ -11,7 +11,6 @@ import utils.AllureUtils;
 import static com.codeborne.selenide.Selenide.open;
 
 @Listeners(TestListener.class)
-
 public class BaseTest {
 
     WebDriver driver;
