@@ -70,5 +70,4 @@ public class RegisterPage {
     public String errorPass() {
         return errorPassword.getText();
     }
-
 }
